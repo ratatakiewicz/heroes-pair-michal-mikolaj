@@ -1,0 +1,3 @@
+imię: Gandalf
+świat: władca pierścieni
+umiejętności: mądry
